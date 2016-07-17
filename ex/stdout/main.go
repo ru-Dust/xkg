@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gopkg.in/xkg.v0"
+	"github.com/LuccaPrado/xkg"
 )
 
 func main() {
