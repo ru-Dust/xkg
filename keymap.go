@@ -22,8 +22,8 @@ var KeyMap map[int]string = map[int]string{
 	31: "i",
 	32: "o",
 	33: "p",
-	34: "[",
-	35: "]",
+	34: "´",
+	35: "[",
 	51: "\\",
 
 	// asdf row
@@ -36,8 +36,9 @@ var KeyMap map[int]string = map[int]string{
 	44: "j",
 	45: "k",
 	46: "l",
-	47: ",",
-	48: "\"",
+	47: "ç",
+	48: "~",
+	134: "]",
 	36: "<Return>",
 
 	// zxcv row
@@ -50,7 +51,8 @@ var KeyMap map[int]string = map[int]string{
 	58: "m",
 	59: ",",
 	60: ".",
-	61: "/",
+	61: ";",
+	136: "/",
 
 	// number row
 	49: "`",
