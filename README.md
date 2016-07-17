@@ -5,7 +5,7 @@ xkg - X Keyboard Grabber
 
 ## Installation
 
-    go get gopkg.in/xkg.v0
+    go get github.com/LuccaPrado/xkg
 
 ## Usage example:
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/xkg.v0"
+	"github.com/LuccaPrado/xkg"
 )
 
 func main() {
