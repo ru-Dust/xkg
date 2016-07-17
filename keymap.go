@@ -22,7 +22,7 @@ var KeyMap map[int]string = map[int]string{
 	31: "i",
 	32: "o",
 	33: "p",
-	34: "´",
+	34: "'",
 	35: "[",
 	51: "\\",
 
